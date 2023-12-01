@@ -19,4 +19,4 @@ TF_LOG=debug terraform apply
 
 Example awscli configuration:
 ```init
-region = eu-
+region = eu-west-1
